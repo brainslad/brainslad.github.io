@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",MONTERRICO TV [1080p]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w89600264.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",DIGITAL TV PERU 2 [720p]
+http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",DIGITAL TV PERU [720p]
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
